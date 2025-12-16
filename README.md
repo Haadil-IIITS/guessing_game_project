@@ -1,5 +1,5 @@
 #guessing_game_project
-I have created a called number guessing game where the user has to guess the number before your
-chances gets over .
 <br>
-for an hard level u get 5 chances where as for an easy level u get 10 chances 
+I have created a game called ( NUMBER GUESSING GAME) where the user has to guess the number before your chances gets over .
+<br>
+For an HARD LEVEL u get 5 chances where as for an EASY LEVEL u get 10 chances 
